@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Software Engineer with **4+ years of experience** building scalable, high-performance web apps using **React.js, Next.js, JavaScript & TailwindCSS**
+- 🔭 Software Engineer building scalable, high-performance web apps using **React.js, Next.js, JavaScript & TailwindCSS**
 - ⚡ Strong focus on **Core Web Vitals, SEO, and Web Performance Optimization**
 - 🧰 Comfortable with **Redux Toolkit, Zod, React Hook Form**, and REST API integrations
 
